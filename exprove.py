@@ -1,7 +1,7 @@
 #Definició
 def canvi(l,m,n):
     print("{}{} \n {}".format(l,m,n))
-#Proncipal
+#Principal
 a="Hola"
 b="Ramis"
 c="Como estas?"

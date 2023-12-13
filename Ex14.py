@@ -1,5 +1,5 @@
 #Definició de la funció 
-def gra(x , y ,z):
+def gran_de_tres(x , y ,z):
     if x>y>z:
         print("El número {} és el major".format(x))
     elif y>x>z:
@@ -11,4 +11,4 @@ def gra(x , y ,z):
 x= int(input("Introduce el primer número: "))
 y= int(input("Introduce el segundo número: "))
 z = int(input("Introduce el tercer núemro: "))
-gra(x,y,z)
+gran_de_tres(x,y,z)
