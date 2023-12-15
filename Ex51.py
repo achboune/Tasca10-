@@ -8,7 +8,6 @@ def senars():
     a = list(range(1, 100, 2))
     print("Els senars d'1 a 100 són", a)
 
-# Principal
 parells()
 senars()
 
